@@ -1,7 +1,7 @@
 # parser-sed-thing
 
-This project was a programming challenge issued to my by a buddy of
-mine, https://github.com/jamesdbrock/ .
+This project was a programming challenge issued to me by a buddy of
+mine, [James Brock]( https://github.com/jamesdbrock/ ).
 
 The overall goal was to create a sed-like string matching function
 that would use a parser function to scan through a string and select
